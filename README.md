@@ -4,9 +4,10 @@
 3)  For SSR --> ng add @ngular/ssr
 4)  For pdf download --> jspdf html2canvas --save
 5)  For google map --> npm install @angular/google-maps
-----------------------------------Above  all are commnad to install necessary to run the application.-------------------------------------------------
+6)  Above  all are commnad to install necessary to run the application.---------------------------
 
---------> All feature i have implented below (as you expected)    -----It's a responsive 
+------------------------------------------------------------------------------------------------------------------------------
+----------> All feature i have implented below (as you expected)    -----It's a responsive 
 1) Navbar ->  Routing applied, when you click every individual option it will scroll
 2) Experience -> when you will click on position name like (1 yr as Frontend developer) it will expand the experience section.
 3) Skills -> When you hover on every skills section then it will show the rating.
