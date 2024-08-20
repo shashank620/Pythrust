@@ -1,8 +1,8 @@
-# Pythrust resume task
+# Pythrust resume task     -------------------------Note -> All command use with --force if not work
 1) npm install
 2) for responsive--> npm install --save @angular/cdk --force 
 3)  For SSR --> ng add @ngular/ssr
-4)  For pdf download --> jspdf html2canvas --save
+4)  For pdf download --> npm install jspdf html2canvas --save
 5)  For google map --> npm install @angular/google-maps
 6)  Above  all are commnad to install necessary to run the application.---------------------------
 
