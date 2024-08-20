@@ -1,9 +1,9 @@
 # Pythrust resume task
--- npm install
---for responsive--> npm install --save @angular/cdk --force 
--- For SSR --> ng add @ngular/ssr
--- For pdf download --> jspdf html2canvas --save
--- For google map --> npm install @angular/google-maps
+1) npm install
+2) for responsive--> npm install --save @angular/cdk --force 
+3)  For SSR --> ng add @ngular/ssr
+4)  For pdf download --> jspdf html2canvas --save
+5)  For google map --> npm install @angular/google-maps
 ----------------------------------Above  all are commnad to install necessary to run the application.-------------------------------------------------
 
 --------> All feature i have implented below (as you expected)    -----It's a responsive 
